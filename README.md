@@ -1,4 +1,3 @@
-# **Concept Implementation**
 # Find screen recording demonstration in the end of this README
 
 
