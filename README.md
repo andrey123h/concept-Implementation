@@ -72,7 +72,7 @@ The demo is focused on the core idea from the user’s perspective, not the plum
 
 **User Flow** 
 
-Find the prototype video ‘demo-video.mp4’ in /project as it conveys more than words can. A picture is worth a thousand words.
+Find screen recording demonstration in the end of this README as it conveys more than words can. A picture is worth a thousand words.
 
 **Prototype Tech Stack**
 
