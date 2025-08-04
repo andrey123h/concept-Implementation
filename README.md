@@ -82,7 +82,7 @@ Python, fastAPI, lovable.dev, OpenAI API, OpenAI assistant API.
 
 **The LLM can hallucinate** inventing causal links between user intent and product features or misstating technical details while presenting them confidently as facts. This risks misleading users.
 
-→ Applying best-practice prompt engineering (structured templates, few-shot examples, and explicit grounding), RAG to supply real product specs, and continuous evaluation with user feedback can drive hallucination risk down to a very low level.
+→  Applying best-practice prompt engineering (structured templates, few-shot examples, and explicit grounding), RAG to supply real product specs continuous evaluation with user feedback alongside concepts as LLM as a judge can drive hallucination risk down to a very low level. 
 
 **Enriched user data** from the data provider tool brings risks, for example incomplete or outdated info can mislead personalization. Also, there are privacy and consent challenges.
 
